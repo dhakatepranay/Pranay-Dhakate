@@ -38,56 +38,103 @@ I'm an Integration Developer(IBM ACE/Mulesoft) from India working at TCS from pa
 </p>
 
 ###
-
 <h3 align="left">🛠 Languages and Tools</h3>
 
-<div align="left">
+<style>
+.tech-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  margin-top: 15px;
+}
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
-<img width="12" />
+.tech-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px;
+  border-radius: 12px;
+  border: 1px solid #ddd;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"/>
-<img width="12" />
+.tech-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
-<img width="12" />
+.tech-card img {
+  height: 45px;
+}
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
-<img width="12" />
+.tech-name {
+  font-weight: 600;
+}
+</style>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"/>
-<img width="12" />
+<div class="tech-grid">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"/>
-
+<div class="tech-card" title="IBM App Connect Enterprise">
+<img src="https://seeklogo.com/images/I/ibm-logo-F4E2C2E8C1-seeklogo.com.png"/>
+<span class="tech-name">IBM ACE / App Connect</span>
 </div>
 
-<br>
+<div class="tech-card" title="IBM Integration Bus">
+<img src="https://seeklogo.com/images/I/ibm-logo-F4E2C2E8C1-seeklogo.com.png"/>
+<span class="tech-name">IBM Integration Bus</span>
+</div>
 
-<b>Middleware & Integration</b>
-- IBM Integration Bus (IIB)
-- IBM App Connect Enterprise (ACE)
-- IBM MQ
-- Enterprise Integration Patterns
-- SOAP & REST API Development
-- ESQL Transformations
+<div class="tech-card" title="MuleSoft Integration Platform">
+<img src="https://seeklogo.com/images/M/mulesoft-logo-2F3D73A4D9-seeklogo.com.png"/>
+<span class="tech-name">MuleSoft</span>
+</div>
 
-<b>Messaging & Formats</b>
-- XML
-- JSON
-- XSD
-- WSDL
+<div class="tech-card" title="Microsoft Azure Cloud Platform">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+<span class="tech-name">Microsoft Azure</span>
+</div>
 
-<b>Tools & Utilities</b>
-- SOAP UI
-- MQ Explorer
-- RFHUtil
-- MobaXterm
-- FileZilla
-- PuTTY
-- JIRA
-- Git / GitLab
+<div class="tech-card" title="SOAP UI Testing Tool">
+<img src="https://seeklogo.com/images/S/soapui-logo-3D6B1B33F8-seeklogo.com.png"/>
+<span class="tech-name">SoapUI</span>
+</div>
 
+<div class="tech-card" title="Postman API Testing">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
+<span class="tech-name">Postman</span>
+</div>
+
+<div class="tech-card" title="Oracle Database">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
+<span class="tech-name">Oracle DB</span>
+</div>
+
+<div class="tech-card" title="MySQL Database">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<span class="tech-name">MySQL</span>
+</div>
+
+<div class="tech-card" title="Git Version Control">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<span class="tech-name">Git / GitLab</span>
+</div>
+
+<div class="tech-card" title="Linux Environment">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<span class="tech-name">Linux</span>
+</div>
+
+<div class="tech-card" title="ESQL Development">
+<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"/>
+<span class="tech-name">ESQL</span>
+</div>
+
+<div class="tech-card" title="XML / JSON Messaging">
+<img src="https://cdn-icons-png.flaticon.com/512/136/136526.png"/>
+<span class="tech-name">XML / JSON</span>
+</div>
+
+</div>
 ###
 
 <h3 align="left">🏢 Professional Experience</h3>
