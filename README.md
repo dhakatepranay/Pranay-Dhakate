@@ -1,146 +1,126 @@
-Pranay Dhakate
-IBM Integration Bus (IIB) / App Connect Enterprise (ACE) Developer
+<div style="font-family: Arial, Helvetica, sans-serif; line-height:1.6;">
 
-📍 Nagpur, India
-📧 dhakate.pranay04@gmail.com
+<h1 style="color:#0A66C2;">Pranay Dhakate</h1>
+<h3 style="color:#444;">IBM Integration Bus (IIB) / App Connect Enterprise (ACE) Developer</h3>
 
-🔗 LinkedIn
+<p>
+📍 Nagpur, India <br>
+📧 <a href="mailto:dhakate.pranay04@gmail.com">dhakate.pranay04@gmail.com</a> <br>
+🔗 <a href="https://www.linkedin.com/in/pranay-dhakate04" target="_blank">LinkedIn Profile</a>
+</p>
 
-About Me
+<hr>
 
-Integration developer with 4.5+ years of experience designing and building enterprise integration solutions using IBM Integration Bus (IIB v10) and IBM App Connect Enterprise (ACE v12). Skilled in developing SOAP and REST services, message transformations using ESQL, and implementing scalable integration architectures across distributed systems.
+<h2 style="color:#2E8B57;">About Me</h2>
+<p>
+Integration developer with <b>4.5+ years of experience</b> designing and building enterprise integration solutions using 
+<b>IBM Integration Bus (IIB v10)</b> and <b>IBM App Connect Enterprise (ACE v12)</b>.
+Strong expertise in SOAP/REST services, ESQL transformations, and enterprise messaging systems.
+</p>
 
-Experienced in handling XML and JSON messaging, backend database integrations, and production troubleshooting. Strong background in debugging, server-side tracing, and performance optimization within enterprise middleware environments.
+<p>
+Experienced in XML/JSON messaging, backend database integrations, production troubleshooting, and performance optimization 
+within enterprise middleware environments.
+</p>
 
-Technical Skills
-Integration & Middleware
+<hr>
 
-IBM Integration Bus (IIB)
+<h2 style="color:#2E8B57;">Technical Skills</h2>
 
-IBM App Connect Enterprise (ACE)
+<h3 style="color:#0A66C2;">Integration & Middleware</h3>
+<ul>
+<li>IBM Integration Bus (IIB)</li>
+<li>IBM App Connect Enterprise (ACE)</li>
+<li>IBM MQ v9.x</li>
+<li>Enterprise Integration Patterns</li>
+<li>Message Flow Design & Integration Architecture</li>
+</ul>
 
-IBM MQ v9.x
+<h3 style="color:#0A66C2;">Languages & Transformations</h3>
+<ul>
+<li>ESQL</li>
+<li>XML / JSON</li>
+<li>XSD / WSDL</li>
+<li>SOAP & REST API Development</li>
+</ul>
 
-Enterprise Integration Patterns (EIP)
+<h3 style="color:#0A66C2;">Tools & Utilities</h3>
+<ul>
+<li>IBM App Connect Toolkit</li>
+<li>SOAP UI & Postman</li>
+<li>RFHUtil & MQ Explorer</li>
+<li>Git / GitLab</li>
+<li>MobaXterm, FileZilla, PuTTY</li>
+<li>JIRA</li>
+<li>Unix / Linux Commands</li>
+</ul>
 
-Message Flow Design
+<h3 style="color:#0A66C2;">Databases</h3>
+<ul>
+<li>Oracle 19c</li>
+<li>MySQL</li>
+<li>Stored Procedures, Views, Query Optimization</li>
+</ul>
 
-Integration Architecture
+<h3 style="color:#0A66C2;">Security & Protocols</h3>
+<ul>
+<li>Authentication & Authorization</li>
+<li>SSL / TLS Encryption</li>
+<li>HTTP / HTTPS</li>
+<li>SOAP / REST Protocols</li>
+</ul>
 
-Languages & Transformations
+<hr>
 
-ESQL
+<h2 style="color:#2E8B57;">Professional Experience</h2>
 
-XML / JSON
+<h3 style="color:#444;">Tata Consultancy Services (TCS)</h3>
+<p><b>IBM Integration Bus Developer – LATAM Banking Project</b></p>
 
-XSD / WSDL
+<ul>
+<li>Developed SOAP and REST services using technical mapping specifications.</li>
+<li>Designed complex message flows using ESQL for validation, transformation, and routing.</li>
+<li>Implemented enterprise system integrations using APIs and messaging platforms.</li>
+<li>Configured and supported IBM MQ queues, channels, and security configurations.</li>
+<li>Performed integration and end-to-end testing using SOAP UI and Postman.</li>
+<li>Handled Oracle and MySQL backend integrations and audit logging.</li>
+<li>Conducted production troubleshooting using server logs and tracing tools.</li>
+<li>Collaborated with business analysts, QA, and infrastructure teams.</li>
+</ul>
 
-SOAP & REST API Development
+<hr>
 
-Tools & Utilities
+<h2 style="color:#2E8B57;">Certifications</h2>
+<ul>
+<li>Microsoft Certified: Azure Fundamentals (AZ-900)</li>
+<li>Microsoft Certified: Power BI Data Analyst Associate</li>
+<li>HackerRank SQL Basic & Intermediate Certification</li>
+</ul>
 
-IBM App Connect Toolkit
+<hr>
 
-SOAP UI
-
-Postman
-
-RFHUtil
-
-MQ Explorer
-
-Git / GitLab
-
-MobaXterm
-
-FileZilla
-
-PuTTY
-
-JIRA
-
-Unix / Linux Commands
-
-Databases
-
-Oracle 19c
-
-MySQL
-
-Stored Procedures
-
-Views
-
-Query Optimization
-
-Security & Protocols
-
-Authentication & Authorization
-
-SSL / TLS Encryption
-
-HTTP / HTTPS
-
-SOAP / REST Protocols
-
-Testing & Troubleshooting
-
-Functional Testing
-
-Regression Testing
-
-Integration Testing
-
-Debugging & Root Cause Analysis
-
-Performance Optimization
-
-Error Handling in Message Flows
-
-Professional Experience
-Tata Consultancy Services (TCS)
-IBM Integration Bus Developer – LATAM Banking Project
-
-Developed SOAP and REST services based on technical mapping specifications.
-
-Designed complex message flows using ESQL for validation, transformation, and routing.
-
-Implemented integrations across enterprise systems using messaging and API-based communication.
-
-Configured and supported IBM MQ components including queues, channels, and security configurations.
-
-Performed integration and end-to-end testing using SOAP UI and Postman.
-
-Worked with Oracle and MySQL for backend integrations and audit logging.
-
-Conducted production troubleshooting through server logs and tracing tools.
-
-Managed secure file transfer and version control using SFTP workflows.
-
-Collaborated with business analysts, QA teams, and infrastructure teams to deliver reliable integration solutions.
-
-Certifications
-
-Microsoft Certified: Azure Fundamentals (AZ-900)
-
-Microsoft Certified: Power BI Data Analyst Associate
-
-HackerRank SQL (Basic & Intermediate)
-
-Education
-
-Bachelor of Engineering – Mechanical Engineering
-GH Raisoni College of Engineering
+<h2 style="color:#2E8B57;">Education</h2>
+<p>
+<b>Bachelor of Engineering – Mechanical Engineering</b><br>
+GH Raisoni College of Engineering<br>
 CGPA: 7.18
+</p>
 
-Areas of Interest
+<hr>
 
-Enterprise Integration Architecture
+<h2 style="color:#2E8B57;">Areas of Interest</h2>
+<ul>
+<li>Enterprise Integration Architecture</li>
+<li>Middleware Modernization</li>
+<li>API Development & Cloud Integration</li>
+<li>Messaging Systems & Data Transformation</li>
+</ul>
 
-Middleware Modernization
+<hr>
 
-API Development & Integration
+<h2 style="color:#2E8B57;">GitHub Focus</h2>
+<p>
+This profile showcases integration projects, middleware solutions, API development samples, and experiments with cloud and data tools.
+</p>
 
-Cloud Integration Platforms
-
-Data Transformation & Messaging Systems
+</div>
