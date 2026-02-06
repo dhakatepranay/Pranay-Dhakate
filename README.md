@@ -32,7 +32,7 @@
 I'm an Integration Developer from India 🇮🇳 <br><br>
 
 🔭 I’m currently working as an <b>IBM Integration Bus / App Connect Enterprise Developer</b><br>
-🔧 4.5+ years experience building enterprise middleware and integration solutions<br>
+🔧 5 years experience building enterprise middleware and integration solutions<br>
 📚 Currently learning cloud integration and modern API architecture<br>
 ⚡ I enjoy debugging complex message flows and optimizing performance-heavy integrations
 </p>
