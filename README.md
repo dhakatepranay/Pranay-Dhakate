@@ -1,126 +1,123 @@
-<div style="font-family: Arial, Helvetica, sans-serif; line-height:1.6;">
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
-<h1 style="color:#0A66C2;">Pranay Dhakate</h1>
-<h3 style="color:#444;">IBM Integration Bus (IIB) / App Connect Enterprise (ACE) Developer</h3>
+###
 
-<p>
-📍 Nagpur, India <br>
-📧 <a href="mailto:dhakate.pranay04@gmail.com">dhakate.pranay04@gmail.com</a> <br>
-🔗 <a href="https://www.linkedin.com/in/pranay-dhakate04" target="_blank">LinkedIn Profile</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/pranay-dhakate04" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+
+  <a href="mailto:dhakate.pranay04@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pranaydhakate.pranaydhakate" />
+</div>
+
+###
+
+<h1 align="center">Hey there 👋 I'm Pranay</h1>
+
+###
+
+<h3 align="left">👨‍💻 About Me</h3>
+
+<p align="left">
+I'm an Integration Developer from India 🇮🇳 <br><br>
+
+🔭 I’m currently working as an <b>IBM Integration Bus / App Connect Enterprise Developer</b><br>
+🔧 4.5+ years experience building enterprise middleware and integration solutions<br>
+📚 Currently learning cloud integration and modern API architecture<br>
+⚡ I enjoy debugging complex message flows and optimizing performance-heavy integrations
 </p>
 
-<hr>
+###
 
-<h2 style="color:#2E8B57;">About Me</h2>
-<p>
-Integration developer with <b>4.5+ years of experience</b> designing and building enterprise integration solutions using 
-<b>IBM Integration Bus (IIB v10)</b> and <b>IBM App Connect Enterprise (ACE v12)</b>.
-Strong expertise in SOAP/REST services, ESQL transformations, and enterprise messaging systems.
-</p>
+<h3 align="left">🛠 Languages and Tools</h3>
 
-<p>
-Experienced in XML/JSON messaging, backend database integrations, production troubleshooting, and performance optimization 
-within enterprise middleware environments.
-</p>
+<div align="left">
 
-<hr>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
+<img width="12" />
 
-<h2 style="color:#2E8B57;">Technical Skills</h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"/>
+<img width="12" />
 
-<h3 style="color:#0A66C2;">Integration & Middleware</h3>
-<ul>
-<li>IBM Integration Bus (IIB)</li>
-<li>IBM App Connect Enterprise (ACE)</li>
-<li>IBM MQ v9.x</li>
-<li>Enterprise Integration Patterns</li>
-<li>Message Flow Design & Integration Architecture</li>
-</ul>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+<img width="12" />
 
-<h3 style="color:#0A66C2;">Languages & Transformations</h3>
-<ul>
-<li>ESQL</li>
-<li>XML / JSON</li>
-<li>XSD / WSDL</li>
-<li>SOAP & REST API Development</li>
-</ul>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+<img width="12" />
 
-<h3 style="color:#0A66C2;">Tools & Utilities</h3>
-<ul>
-<li>IBM App Connect Toolkit</li>
-<li>SOAP UI & Postman</li>
-<li>RFHUtil & MQ Explorer</li>
-<li>Git / GitLab</li>
-<li>MobaXterm, FileZilla, PuTTY</li>
-<li>JIRA</li>
-<li>Unix / Linux Commands</li>
-</ul>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"/>
+<img width="12" />
 
-<h3 style="color:#0A66C2;">Databases</h3>
-<ul>
-<li>Oracle 19c</li>
-<li>MySQL</li>
-<li>Stored Procedures, Views, Query Optimization</li>
-</ul>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"/>
 
-<h3 style="color:#0A66C2;">Security & Protocols</h3>
-<ul>
-<li>Authentication & Authorization</li>
-<li>SSL / TLS Encryption</li>
-<li>HTTP / HTTPS</li>
-<li>SOAP / REST Protocols</li>
-</ul>
+</div>
 
-<hr>
+<br>
 
-<h2 style="color:#2E8B57;">Professional Experience</h2>
+<b>Middleware & Integration</b>
+- IBM Integration Bus (IIB)
+- IBM App Connect Enterprise (ACE)
+- IBM MQ
+- Enterprise Integration Patterns
+- SOAP & REST API Development
+- ESQL Transformations
 
-<h3 style="color:#444;">Tata Consultancy Services (TCS)</h3>
-<p><b>IBM Integration Bus Developer – LATAM Banking Project</b></p>
+<b>Messaging & Formats</b>
+- XML
+- JSON
+- XSD
+- WSDL
+
+<b>Tools & Utilities</b>
+- SOAP UI
+- MQ Explorer
+- RFHUtil
+- MobaXterm
+- FileZilla
+- PuTTY
+- JIRA
+- Git / GitLab
+
+###
+
+<h3 align="left">🏢 Professional Experience</h3>
+
+<b>Tata Consultancy Services (TCS)</b><br>
+IBM Integration Bus Developer – LATAM Banking Project
 
 <ul>
-<li>Developed SOAP and REST services using technical mapping specifications.</li>
-<li>Designed complex message flows using ESQL for validation, transformation, and routing.</li>
-<li>Implemented enterprise system integrations using APIs and messaging platforms.</li>
-<li>Configured and supported IBM MQ queues, channels, and security configurations.</li>
-<li>Performed integration and end-to-end testing using SOAP UI and Postman.</li>
-<li>Handled Oracle and MySQL backend integrations and audit logging.</li>
-<li>Conducted production troubleshooting using server logs and tracing tools.</li>
-<li>Collaborated with business analysts, QA, and infrastructure teams.</li>
+<li>Developed SOAP and REST services from mapping specifications</li>
+<li>Designed complex message flows using ESQL</li>
+<li>Configured IBM MQ queues, channels, and security</li>
+<li>Implemented enterprise system integrations</li>
+<li>Performed integration testing using SOAP UI and Postman</li>
+<li>Worked with Oracle and MySQL backend integrations</li>
+<li>Handled production troubleshooting and server tracing</li>
+<li>Collaborated with business, QA, and infrastructure teams</li>
 </ul>
 
-<hr>
+###
 
-<h2 style="color:#2E8B57;">Certifications</h2>
-<ul>
-<li>Microsoft Certified: Azure Fundamentals (AZ-900)</li>
-<li>Microsoft Certified: Power BI Data Analyst Associate</li>
-<li>HackerRank SQL Basic & Intermediate Certification</li>
-</ul>
+<h3 align="left">🎓 Certifications</h3>
 
-<hr>
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Power BI Data Analyst Associate
+- HackerRank SQL (Basic & Intermediate)
 
-<h2 style="color:#2E8B57;">Education</h2>
-<p>
-<b>Bachelor of Engineering – Mechanical Engineering</b><br>
-GH Raisoni College of Engineering<br>
-CGPA: 7.18
-</p>
+###
 
-<hr>
+<h3 align="left">🔥 My Stats</h3>
 
-<h2 style="color:#2E8B57;">Areas of Interest</h2>
-<ul>
-<li>Enterprise Integration Architecture</li>
-<li>Middleware Modernization</li>
-<li>API Development & Cloud Integration</li>
-<li>Messaging Systems & Data Transformation</li>
-</ul>
-
-<hr>
-
-<h2 style="color:#2E8B57;">GitHub Focus</h2>
-<p>
-This profile showcases integration projects, middleware solutions, API development samples, and experiments with cloud and data tools.
-</p>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
 </div>
